@@ -1,0 +1,44 @@
+body{
+    background-color: #e0e8ff;
+
+}
+main{
+    background-color: white;
+    width: 60vw;
+    height: 60vh;
+    margin: 10vh auto;
+}
+
+.input-section{
+    margin: 3rem;
+}
+
+.output-section{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.output{
+
+    background-color: #1b1096;
+    border-radius: 2rem;
+    color: white;
+    padding: 1rem 3rem;
+}
+
+.slider{
+
+    width: 100%;
+}
+
+
+main > h1{
+padding: 1.5rem;
+background-color: #1b1096;
+color: white
+
+}
